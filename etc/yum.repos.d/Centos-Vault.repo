@@ -10,7 +10,7 @@ name=CentOS-6.10 - Base
 baseurl=http://vault.centos.org/6.10/os/$basearch/
 gpgcheck=1
 gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-CentOS-6
-enabled=2
+enabled=1
 
 [C6.10-updates]
 name=CentOS-6.10 - Updates
